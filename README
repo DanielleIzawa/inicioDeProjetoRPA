@@ -5,9 +5,12 @@ cd MeuProjetoExistente
 # Execute o script a partir do caminho onde ele está salvo
 # O script criará os arquivos e pastas (src, components, etc.) aqui dentro
 
+
+# Atenção, não se esqueça de alterar para o endereço que você salvou na sua máquina, lembrando que essa parte é fixa (cli_inicio\inicializar_projeto.py)
+
 #powershell
-python c:\Users\csp9007\Desktop\Projetos\cli_inicio\inicializar_projeto.py
+python c:\Users\seuUsuario\Desktop\Projetos\cli_inicio\inicializar_projeto.py
 
 #bash
-python c:/Users/csp9007/Desktop/Projetos/cli_inicio/inicializar_projeto.py
+python c:/Users/seuUsuario/Desktop/Projetos/cli_inicio/inicializar_projeto.py
 
